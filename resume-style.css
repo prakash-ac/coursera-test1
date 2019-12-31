@@ -1,0 +1,46 @@
+body{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 15px;
+line-height: 1.5;
+padding: 0;
+margin:0;
+background-color: lightgrey;
+}
+header{
+  background-color: lightgrey;
+  border-bottom: groove #e8491d;
+}
+header #name{
+  text-align: center;
+  text-transform: uppercase;
+  color: #e8491d;
+  font-weight: bold;
+  padding-top:20px;
+}
+
+header #address h3{
+  text-align: center;
+  color:#000000;
+  font-weight: bold;
+  margin-bottom: 0;
+  padding: 0;
+
+}
+
+.headings {
+color: orange;
+margin-left: 5px;
+text-decoration: underline;
+font-size: 20px;
+font-weight: bold;
+margin-bottom: 0;
+}
+.paratext{
+margin-left: 5px;
+font-weight: normal;
+font-size: 18px;
+margin-top: 0;
+}
+ul{
+  list-style-type: circle;
+}
